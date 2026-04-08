@@ -1,0 +1,31 @@
+title: Jack Batzner
+tagline: "Views are my own, not my employer's."
+description: "Engineering, AI agents, and building things that actually work."
+url: "https://jackbatzner.github.io"
+
+lang: en
+timezone: America/Chicago
+
+github:
+  username: jackbatzner
+
+linkedin:
+  username: jackbatzner
+
+social:
+  name: Jack Batzner
+  links:
+    - https://www.linkedin.com/in/jackbatzner
+    - https://github.com/jackbatzner
+
+avatar: /assets/images/avatar.jpg
+
+theme: jekyll-theme-chirpy
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+paginate: 10
+
+permalink: /:year/:month/:day/:title/
